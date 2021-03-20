@@ -1,0 +1,4 @@
+name=VoiceMeeter Basic
+author=spdermn02
+link=https://www.github.com/spdermn02
+bgcolor=#2c3d4d
